@@ -7645,3 +7645,6 @@
 
 #华文电视
 (^|\.)ocnttv\.com$
+
+#Topbuzz
+(^|\.)topbuzz\.com$
