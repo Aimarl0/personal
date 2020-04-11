@@ -7652,4 +7652,8 @@
 (^|\.)geckoiplc\.com$
 (^|\.)isnssdk\.com$
 
+#Xvideos
+(^|\.)xvideos-cdn\.com$
+(^|\.)trafficfactory\.biz$
+
 ### 默认直连 自己可以自定义
